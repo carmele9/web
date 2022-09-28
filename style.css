@@ -22,4 +22,5 @@ p{text-align: justify;
     margin-right: 3em;
     margin-bottom: 1em;}
 
-body{background-color: bisque;}
+body{background-color: bisque;
+    background-image: url("objetos/diseno-fondo-textura-marmol-beige.jpg");}
