@@ -8,6 +8,12 @@ h2{text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: cornflowerblue;}
 
+h3{text-align: center;
+    font-size: 1.5em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(100, 196, 237);}
+
+
 p{text-align: justify;
     font-size: 1.1em;
     font-family: 'Times New Roman', Times, serif;
@@ -17,6 +23,16 @@ p{text-align: justify;
     padding-top: 0.5em;
     text-indent: 2.5em;}
 
+li{text-align: justify;
+    font-size: 1.1em;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    margin-left: 3em;
+    padding-right: 3em ;
+    padding-top: 0.5em;}
+
+ul{list-style-type: square;}
+
 .casita{float: right;
     margin-left: 2em;
     margin-right: 3em;
@@ -24,3 +40,5 @@ p{text-align: justify;
 
 body{background-color: bisque;
     background-image: url("objetos/diseno-fondo-textura-marmol-beige.jpg");}
+
+
