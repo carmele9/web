@@ -41,4 +41,9 @@ ul{list-style-type: square;}
 body{background-color: bisque;
     background-image: url("objetos/diseno-fondo-textura-marmol-beige.jpg");}
 
+a{text-decoration:none;}
 
+a:link{color: rgb(50, 94, 46);}
+a:visited{color: aquamarine;}
+a:hover{color: crimson;}
+a:active{color:mediumvioletred}
