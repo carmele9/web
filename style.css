@@ -16,3 +16,10 @@ p{text-align: justify;
     padding-right: 3em ;
     padding-top: 0.5em;
     text-indent: 2.5em;}
+
+.casita{float: right;
+    margin-left: 2em;
+    margin-right: 3em;
+    margin-bottom: 1em;}
+
+body{background-color: bisque;}
