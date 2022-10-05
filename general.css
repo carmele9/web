@@ -1,0 +1,28 @@
+*{margin: 0px auto;
+ text-align: center;}
+
+body{background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em}
+
+#cabecera{background-color: #ccffff;
+            min-height: 65px;}
+
+#navegacion{background-color: #ffff99;
+            width: 100%;
+            min-height: 65px;}
+
+#menu{background-color: #e2ffde;
+    min-height: 150px;
+    width: 20%;
+    border: 2px solid black;
+    margin: 2%;
+    float: left;}
+
+#contenidos{background-color: #ffffff;
+            width: 75%;
+            float: left;}
+
+#pie{background-color: #ffd08f;
+    clear:both;
+    min-height: 60px;}
