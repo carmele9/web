@@ -13,6 +13,12 @@ h3{text-align: center;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(100, 196, 237);}
 
+h4{text-align: center;
+    font-size: 1.2em;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(128, 77, 139);
+    font-weight: bold;}
+
 
 p{text-align: justify;
     font-size: 1.1em;
@@ -43,7 +49,28 @@ body{background-color: bisque;
 
 a{text-decoration:none;}
 
-a:link{color: rgb(50, 94, 46);}
-a:visited{color: aquamarine;}
+a:link{color: rgb(82, 212, 71);}
+a:visited{color: rgb(43, 93, 76);}
 a:hover{color: crimson;}
-a:active{color:mediumvioletred}
+a:active{color:mediumvioletred;}
+
+div{float: left;
+    width: 160px;
+    border: 1px black solid;
+    background-color: rgb(224,240,255);
+    margin-left: 3em;
+    margin-right: 2em;
+    margin-bottom: 1em;}
+
+div li{font-size: 1.1em;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+    margin: 0em;
+    padding-right: 0em ;}
+
+div ul{list-style-type: none;}
+
+div li a:link{color: rgb(82, 212, 71);}
+div li a:visited{color: rgb(241, 84, 6);}
+div li a:hover{color: crimson;}
+div li a:active{color:mediumvioletred;}
