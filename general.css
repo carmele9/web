@@ -55,3 +55,9 @@ h6{font-size: 0.9em;}
         padding: 10px;
         margin-right: 75px;
         margin-top: 15px;}
+
+#navegacion ul li{display: inline;
+                float: left;
+                width:200px;
+                border: 1px solid #ffcc99;
+                margin: 3px;}
