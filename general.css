@@ -119,3 +119,29 @@ h6{font-size: 0.9em;}
 #menu a:active{color: #000099;
                 background-color: #dcdcdc;
                 text-decoration: underline;}
+
+.construccion{width: 400px;
+            height: 300px;}
+
+#contenidos h1{font-size: 1.7em;
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-style: normal;
+            color:navy;
+            padding: 1em;}
+
+#contenidos h2{font-size: 1.4em;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: normal;
+        padding: 1em;}
+
+#contenidos h4{font-size: 1.1em;
+        font-weight: bold;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: left;
+        padding: 0,5em 3em;}
+
+#contenidos p{text-align: justify;
+        padding: 0.5em 3em;
+        text-indent: 3em;}
