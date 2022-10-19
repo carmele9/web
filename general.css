@@ -26,3 +26,32 @@ body{background-color: azure;
 #pie{background-color: #ffd08f;
     clear:both;
     min-height: 60px;}
+
+h1{font-size: 2em;
+    font-family: "Bookman old style";
+    font-style: italic;
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    margin: 0px;}
+
+h3{font-size: 1.2em;
+    font-family: "Bookman old style";
+    font-style: italic;
+    text-align: center;
+    padding: 15px 0px 10px 0px;
+    margin: 0px;}
+
+h6{font-size: 0.9em;}
+
+#cabecera img{float:left;
+            width: 100px;
+            height: 100px;
+            margin-left: 30px;}
+
+#recuadro{float: right;
+        width: 200px;
+        background-color: #993399;
+        color: #99ff00;
+        padding: 10px;
+        margin-right: 75px;
+        margin-top: 15px;}
